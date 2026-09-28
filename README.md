@@ -6,3 +6,5 @@ data/test.csv
 data/train.csv
 data/events.csv.gz
 ```
+
+После этого блокноты будут полностью воспроизводимы. 
